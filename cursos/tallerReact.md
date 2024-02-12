@@ -14,15 +14,15 @@ Para poder tomar el curso sin perder tiempo en instalaciones te recomendamos ten
 
     ![NodeJS](./images/nodeJS.png)
 
-3. En el curso haremos uso de una biblioteca llamada [Material UI](https://mui.com/), la cual nos ayudará a crear componentes más fácil y rápido, te recomendamos ejecutar los siguientes tres comandos **EN EL DESARROLLO DEL TALLER**, sin embargo, si quieres hacer uso de la biblioteca para hacer pruebas previas te dejamos los comandos:
-![Material UI](https://madewithreact.com/content/images/2018/11/Screen-Shot-2018-11-04-at-16.34.26.png)
+3. En el curso haremos uso de una biblioteca llamada [Material UI](https://mui.com/), la cual nos ayudará a crear componentes más fácil y rápido, te recomendamos ejecutar los siguientes tres comandos **EN EL DESARROLLO DEL TALLER**, sin embargo, si quieres hacer uso de la biblioteca para hacer pruebas previas, te dejamos los comandos:
+
+    ![Material UI](https://madewithreact.com/content/images/2018/11/Screen-Shot-2018-11-04-at-16.34.26.png)
+
+    - Comandos (no incluir `$`):
+
     ```sh
     $ npm install @mui/material @emotion/react @emotion/styled
-    ```
-    ```sh
-    $ npm install @mui/material @mui/styled-engine-sc styled-components 
-    ```
-    ```sh
+    $ npm install @mui/material @mui/styled-engine-sc styled-components
     $ npm install @mui/icons-material  
     ```
 

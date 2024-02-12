@@ -33,12 +33,13 @@ Sabemos que son muchas herramientas, pero tranquilo aquí te ayudamos a instalar
     O podemos abrir VSC y abrir una terminal:
 
     ![Terminal VSC](./images/vscTerminal.png)
-    Despues solo es necesario colocar el siguiente comando:
-        ```sh
-        $ npm install -g @angular/cli
-        ```
-        Aquí tienes un [video de apoyo](https://www.youtube.com/watch?v=UpJSgXCEqGQ)
-6. Ionic se instala igual desde terminal de la misma manera que mencionamos para angular pero corriendo el siguiente comando:
+    Despues solo es necesario colocar el siguiente comando (no incluir `$`):
+
+    ```sh
+    $ npm install -g @angular/cli
+    ```
+    Aquí tienes un [video de apoyo](https://www.youtube.com/watch?v=UpJSgXCEqGQ)
+6. Ionic se instala igual desde terminal de la misma manera que mencionamos para angular pero corriendo el siguiente comando (no incluir `$`):
 
     ```sh
     $ npm install -g @ionic/cli
