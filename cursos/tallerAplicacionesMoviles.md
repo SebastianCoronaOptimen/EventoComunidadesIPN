@@ -1,17 +1,18 @@
 # 🚀 Desarrollo de Aplicaciones Móviles en el Sector Aeroespacial 📱🛰️
 Para este taller es necesario que tengas instaladas las siguientes herramientas:
-1. [Visual Studio Code (VSC)](https://code.visualstudio.com/)  
-2. [Google Chrome](https://www.google.com/intl/es_es/chrome/)
-3. [Git](https://git-scm.com/) y [GitHub](https://github.com/)
-4. [Node.js](https://nodejs.org/en)
-5. [Angular](https://angular.io/)  
-6. [Ionic](https://ionicframework.com/)
+1. [Visual Studio Code (VSC)](https://code.visualstudio.com/).
+2. [Google Chrome](https://www.google.com/intl/es_es/chrome/).
+3. [Git](https://git-scm.com/) y [GitHub](https://github.com/).
+4. [Node.js](https://nodejs.org/en).
+5. [Angular](https://angular.io/).
+6. [Ionic](https://ionicframework.com/).
 
 Sabemos que son muchas herramientas, pero tranquilo aquí te ayudamos a instalarlos:
 
 1. Para instalar VSC solo descárgalo desde su página oficial y sigue la intalación recomendada:
 
     ![VSC](./images/VSCDescarga.png)
+
     En caso de que se te complique o no te sientas 100% seguro de su intalación te dejamos un [video tutorial](https://www.youtube.com/watch?v=X_Z7d04x9-E).
 2. Para instalar [Google Chrome](https://www.google.com/intl/es_es/chrome/) solo descárgalo desde su página oficial.
 3. En la instalación de [git](https://git-scm.com/downloads) lo puedes hacer desde la página oficial y seguir la instalación recomendada o puedes ver este [video](https://www.youtube.com/watch?v=WcYTcttEf50).
@@ -44,4 +45,4 @@ Sabemos que son muchas herramientas, pero tranquilo aquí te ayudamos a instalar
     ```
     Aquí tienes un [video de apoyo](https://www.youtube.com/watch?v=JL8K9HeTmVE).
 
-### Esperamos que disfrutes mucho nuestro curso. ❤️
+## Esperamos que disfrutes mucho nuestro curso. ❤️
