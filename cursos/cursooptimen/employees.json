@@ -1,0 +1,1954 @@
+{
+  "Employees": [
+    {
+      "Name": "Pedro Torres",
+      "Skills": [
+        "Loading and unloading"
+      ],
+      "Spot": "Loading and unloading_spot",
+      "Contract": {
+        "Name": "6x1",
+        "ConsecutiveWorkDays": 6,
+        "ConsecutiveRestDays": 1
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Andrea Bravo",
+      "Skills": [
+        "Coverage"
+      ],
+      "Spot": "Coverage_spot",
+      "Contract": {
+        "Name": "4x2",
+        "ConsecutiveWorkDays": 4,
+        "ConsecutiveRestDays": 2
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Luis Núñez",
+      "Skills": [
+        "Transportation"
+      ],
+      "Spot": "Transportation_spot",
+      "Contract": {
+        "Name": "2x2",
+        "ConsecutiveWorkDays": 2,
+        "ConsecutiveRestDays": 2
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Isabel Suárez",
+      "Skills": [
+        "Transfer"
+      ],
+      "Spot": "Transfer_spot",
+      "Contract": {
+        "Name": "2x2",
+        "ConsecutiveWorkDays": 2,
+        "ConsecutiveRestDays": 2
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Lorena Morales",
+      "Skills": [
+        "Towing and pushback"
+      ],
+      "Spot": "Towing and pushback_spot",
+      "Contract": {
+        "Name": "5x2",
+        "ConsecutiveWorkDays": 5,
+        "ConsecutiveRestDays": 2
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Raúl Gómez",
+      "Skills": [
+        "Loading and unloading"
+      ],
+      "Spot": "Loading and unloading_spot",
+      "Contract": {
+        "Name": "3x1",
+        "ConsecutiveWorkDays": 3,
+        "ConsecutiveRestDays": 1
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Roberto Ortega",
+      "Skills": [
+        "Towing and pushback"
+      ],
+      "Spot": "Towing and pushback_spot",
+      "Contract": {
+        "Name": "1x1",
+        "ConsecutiveWorkDays": 1,
+        "ConsecutiveRestDays": 1
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Beatriz Fuentes",
+      "Skills": [
+        "Transfer"
+      ],
+      "Spot": "Transfer_spot",
+      "Contract": {
+        "Name": "2x2",
+        "ConsecutiveWorkDays": 2,
+        "ConsecutiveRestDays": 2
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Patricia Molina",
+      "Skills": [
+        "Luggage"
+      ],
+      "Spot": "Luggage_spot",
+      "Contract": {
+        "Name": "4x2",
+        "ConsecutiveWorkDays": 4,
+        "ConsecutiveRestDays": 2
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Patricia Jiménez",
+      "Skills": [
+        "Cleaning"
+      ],
+      "Spot": "Cleaning_spot",
+      "Contract": {
+        "Name": "1x1",
+        "ConsecutiveWorkDays": 1,
+        "ConsecutiveRestDays": 1
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "David Herrera",
+      "Skills": [
+        "Boarding"
+      ],
+      "Spot": "Boarding_spot",
+      "Contract": {
+        "Name": "3x2",
+        "ConsecutiveWorkDays": 3,
+        "ConsecutiveRestDays": 2
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Jorge Torres",
+      "Skills": [
+        "Boarding"
+      ],
+      "Spot": "Boarding_spot",
+      "Contract": {
+        "Name": "1x1",
+        "ConsecutiveWorkDays": 1,
+        "ConsecutiveRestDays": 1
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Adriana Gómez",
+      "Skills": [
+        "Loading and unloading"
+      ],
+      "Spot": "Loading and unloading_spot",
+      "Contract": {
+        "Name": "2x2",
+        "ConsecutiveWorkDays": 2,
+        "ConsecutiveRestDays": 2
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Ricardo Moreno",
+      "Skills": [
+        "Coverage"
+      ],
+      "Spot": "Coverage_spot",
+      "Contract": {
+        "Name": "4x2",
+        "ConsecutiveWorkDays": 4,
+        "ConsecutiveRestDays": 2
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Carmen Flores",
+      "Skills": [
+        "Cleaning"
+      ],
+      "Spot": "Cleaning_spot",
+      "Contract": {
+        "Name": "3x2",
+        "ConsecutiveWorkDays": 3,
+        "ConsecutiveRestDays": 2
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Santiago Sánchez",
+      "Skills": [
+        "Counter"
+      ],
+      "Spot": "Counter_spot",
+      "Contract": {
+        "Name": "3x1",
+        "ConsecutiveWorkDays": 3,
+        "ConsecutiveRestDays": 1
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Elena Ramos",
+      "Skills": [
+        "Transportation"
+      ],
+      "Spot": "Transportation_spot",
+      "Contract": {
+        "Name": "6x1",
+        "ConsecutiveWorkDays": 6,
+        "ConsecutiveRestDays": 1
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "María Núñez",
+      "Skills": [
+        "Boarding"
+      ],
+      "Spot": "Boarding_spot",
+      "Contract": {
+        "Name": "2x2",
+        "ConsecutiveWorkDays": 2,
+        "ConsecutiveRestDays": 2
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Andrea Castro",
+      "Skills": [
+        "Transfer"
+      ],
+      "Spot": "Transfer_spot",
+      "Contract": {
+        "Name": "6x1",
+        "ConsecutiveWorkDays": 6,
+        "ConsecutiveRestDays": 1
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Jorge Serrano",
+      "Skills": [
+        "Dispatch"
+      ],
+      "Spot": "Dispatch_spot",
+      "Contract": {
+        "Name": "6x1",
+        "ConsecutiveWorkDays": 6,
+        "ConsecutiveRestDays": 1
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Manuel Díaz",
+      "Skills": [
+        "Transfer"
+      ],
+      "Spot": "Transfer_spot",
+      "Contract": {
+        "Name": "1x1",
+        "ConsecutiveWorkDays": 1,
+        "ConsecutiveRestDays": 1
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Luciana Pérez",
+      "Skills": [
+        "Counter"
+      ],
+      "Spot": "Counter_spot",
+      "Contract": {
+        "Name": "3x1",
+        "ConsecutiveWorkDays": 3,
+        "ConsecutiveRestDays": 1
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Miguel Herrera",
+      "Skills": [
+        "Transportation"
+      ],
+      "Spot": "Transportation_spot",
+      "Contract": {
+        "Name": "2x1",
+        "ConsecutiveWorkDays": 2,
+        "ConsecutiveRestDays": 1
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Javier Núñez",
+      "Skills": [
+        "Towing and pushback"
+      ],
+      "Spot": "Towing and pushback_spot",
+      "Contract": {
+        "Name": "4x2",
+        "ConsecutiveWorkDays": 4,
+        "ConsecutiveRestDays": 2
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Francisco Navarro",
+      "Skills": [
+        "Boarding"
+      ],
+      "Spot": "Boarding_spot",
+      "Contract": {
+        "Name": "1x1",
+        "ConsecutiveWorkDays": 1,
+        "ConsecutiveRestDays": 1
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Carmen Núñez",
+      "Skills": [
+        "Luggage"
+      ],
+      "Spot": "Luggage_spot",
+      "Contract": {
+        "Name": "3x2",
+        "ConsecutiveWorkDays": 3,
+        "ConsecutiveRestDays": 2
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Gabriel Gómez",
+      "Skills": [
+        "Transfer"
+      ],
+      "Spot": "Transfer_spot",
+      "Contract": {
+        "Name": "3x2",
+        "ConsecutiveWorkDays": 3,
+        "ConsecutiveRestDays": 2
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Adriana Ortega",
+      "Skills": [
+        "Loading and unloading"
+      ],
+      "Spot": "Loading and unloading_spot",
+      "Contract": {
+        "Name": "4x2",
+        "ConsecutiveWorkDays": 4,
+        "ConsecutiveRestDays": 2
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Laura Medina",
+      "Skills": [
+        "Loading and unloading"
+      ],
+      "Spot": "Loading and unloading_spot",
+      "Contract": {
+        "Name": "2x2",
+        "ConsecutiveWorkDays": 2,
+        "ConsecutiveRestDays": 2
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "José Silva",
+      "Skills": [
+        "Coverage"
+      ],
+      "Spot": "Coverage_spot",
+      "Contract": {
+        "Name": "1x1",
+        "ConsecutiveWorkDays": 1,
+        "ConsecutiveRestDays": 1
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Silvia Méndez",
+      "Skills": [
+        "Cleaning"
+      ],
+      "Spot": "Cleaning_spot",
+      "Contract": {
+        "Name": "5x2",
+        "ConsecutiveWorkDays": 5,
+        "ConsecutiveRestDays": 2
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Patricia Pérez",
+      "Skills": [
+        "Coverage"
+      ],
+      "Spot": "Coverage_spot",
+      "Contract": {
+        "Name": "4x2",
+        "ConsecutiveWorkDays": 4,
+        "ConsecutiveRestDays": 2
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Silvia Moreno",
+      "Skills": [
+        "Loading and unloading"
+      ],
+      "Spot": "Loading and unloading_spot",
+      "Contract": {
+        "Name": "5x2",
+        "ConsecutiveWorkDays": 5,
+        "ConsecutiveRestDays": 2
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Luis Ortega",
+      "Skills": [
+        "Coverage"
+      ],
+      "Spot": "Coverage_spot",
+      "Contract": {
+        "Name": "2x1",
+        "ConsecutiveWorkDays": 2,
+        "ConsecutiveRestDays": 1
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Alberto Navarro",
+      "Skills": [
+        "Towing and pushback"
+      ],
+      "Spot": "Towing and pushback_spot",
+      "Contract": {
+        "Name": "1x1",
+        "ConsecutiveWorkDays": 1,
+        "ConsecutiveRestDays": 1
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Natalia Carrasco",
+      "Skills": [
+        "Transportation"
+      ],
+      "Spot": "Transportation_spot",
+      "Contract": {
+        "Name": "3x1",
+        "ConsecutiveWorkDays": 3,
+        "ConsecutiveRestDays": 1
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Alejandro Parra",
+      "Skills": [
+        "Luggage"
+      ],
+      "Spot": "Luggage_spot",
+      "Contract": {
+        "Name": "2x2",
+        "ConsecutiveWorkDays": 2,
+        "ConsecutiveRestDays": 2
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Fernando Álvarez",
+      "Skills": [
+        "Coverage"
+      ],
+      "Spot": "Coverage_spot",
+      "Contract": {
+        "Name": "2x2",
+        "ConsecutiveWorkDays": 2,
+        "ConsecutiveRestDays": 2
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Carlos Díaz",
+      "Skills": [
+        "Coverage"
+      ],
+      "Spot": "Coverage_spot",
+      "Contract": {
+        "Name": "3x2",
+        "ConsecutiveWorkDays": 3,
+        "ConsecutiveRestDays": 2
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Alejandro Álvarez",
+      "Skills": [
+        "Towing and pushback"
+      ],
+      "Spot": "Towing and pushback_spot",
+      "Contract": {
+        "Name": "2x1",
+        "ConsecutiveWorkDays": 2,
+        "ConsecutiveRestDays": 1
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Óscar Morales",
+      "Skills": [
+        "Luggage"
+      ],
+      "Spot": "Luggage_spot",
+      "Contract": {
+        "Name": "6x1",
+        "ConsecutiveWorkDays": 6,
+        "ConsecutiveRestDays": 1
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Pedro Cortés",
+      "Skills": [
+        "Luggage"
+      ],
+      "Spot": "Luggage_spot",
+      "Contract": {
+        "Name": "1x1",
+        "ConsecutiveWorkDays": 1,
+        "ConsecutiveRestDays": 1
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Marina Castro",
+      "Skills": [
+        "Luggage"
+      ],
+      "Spot": "Luggage_spot",
+      "Contract": {
+        "Name": "1x1",
+        "ConsecutiveWorkDays": 1,
+        "ConsecutiveRestDays": 1
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Pedro Flores",
+      "Skills": [
+        "Transportation"
+      ],
+      "Spot": "Transportation_spot",
+      "Contract": {
+        "Name": "2x2",
+        "ConsecutiveWorkDays": 2,
+        "ConsecutiveRestDays": 2
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Valeria Álvarez",
+      "Skills": [
+        "Dispatch"
+      ],
+      "Spot": "Dispatch_spot",
+      "Contract": {
+        "Name": "1x1",
+        "ConsecutiveWorkDays": 1,
+        "ConsecutiveRestDays": 1
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Laura Vega",
+      "Skills": [
+        "Transportation"
+      ],
+      "Spot": "Transportation_spot",
+      "Contract": {
+        "Name": "3x2",
+        "ConsecutiveWorkDays": 3,
+        "ConsecutiveRestDays": 2
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Gonzalo Castro",
+      "Skills": [
+        "Luggage"
+      ],
+      "Spot": "Luggage_spot",
+      "Contract": {
+        "Name": "2x2",
+        "ConsecutiveWorkDays": 2,
+        "ConsecutiveRestDays": 2
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Miguel Cortés",
+      "Skills": [
+        "Loading and unloading"
+      ],
+      "Spot": "Loading and unloading_spot",
+      "Contract": {
+        "Name": "6x1",
+        "ConsecutiveWorkDays": 6,
+        "ConsecutiveRestDays": 1
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Raúl Moreno",
+      "Skills": [
+        "Loading and unloading"
+      ],
+      "Spot": "Loading and unloading_spot",
+      "Contract": {
+        "Name": "5x2",
+        "ConsecutiveWorkDays": 5,
+        "ConsecutiveRestDays": 2
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    },
+    {
+      "Name": "Pablo Pérez",
+      "Skills": [
+        "Luggage"
+      ],
+      "Spot": "Luggage_spot",
+      "Contract": {
+        "Name": "1x1",
+        "ConsecutiveWorkDays": 1,
+        "ConsecutiveRestDays": 1
+      },
+      "Documents": [
+        {
+          "Name": "word",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "excel",
+          "Expedition": "2021-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "json",
+          "Expedition": "2023-01-01",
+          "Expiration": "2024-01-01"
+        },
+        {
+          "Name": "passport",
+          "Expedition": "2023-01-01",
+          "Expiration": "2026-12-31"
+        },
+        {
+          "Name": "license",
+          "Expedition": "2019-01-01",
+          "Expiration": "2020-01-01"
+        }
+      ]
+    }
+  ]
+}

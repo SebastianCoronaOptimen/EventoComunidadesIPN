@@ -1,0 +1,29 @@
+{
+  "Documents": [
+    {
+      "Name": "word",
+      "Expedition": "2023-01-01",
+      "Expiration": "2024-01-01"
+    },
+    {
+      "Name": "excel",
+      "Expedition": "2021-01-01",
+      "Expiration": "2024-01-01"
+    },
+    {
+      "Name": "json",
+      "Expedition": "2023-01-01",
+      "Expiration": "2024-01-01"
+    },
+    {
+      "Name": "passport",
+      "Expedition": "2023-01-01",
+      "Expiration": "2026-12-31"
+    },
+    {
+      "Name": "license",
+      "Expedition": "2019-01-01",
+      "Expiration": "2020-01-01"
+    }
+  ]
+}

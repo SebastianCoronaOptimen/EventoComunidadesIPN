@@ -1,0 +1,64 @@
+{
+  "Spots": [
+    {
+      "Name": "Coverage_spot",
+      "Skills": [
+        "Coverage"
+      ]
+    },
+    {
+      "Name": "Towing and pushback_spot",
+      "Skills": [
+        "Towing and pushback"
+      ]
+    },
+    {
+      "Name": "Luggage_spot",
+      "Skills": [
+        "Luggage"
+      ]
+    },
+    {
+      "Name": "Transfer_spot",
+      "Skills": [
+        "Transfer"
+      ]
+    },
+    {
+      "Name": "Loading and unloading_spot",
+      "Skills": [
+        "Loading and unloading"
+      ]
+    },
+    {
+      "Name": "Counter_spot",
+      "Skills": [
+        "Counter"
+      ]
+    },
+    {
+      "Name": "Cleaning_spot",
+      "Skills": [
+        "Cleaning"
+      ]
+    },
+    {
+      "Name": "Transportation_spot",
+      "Skills": [
+        "Transportation"
+      ]
+    },
+    {
+      "Name": "Dispatch_spot",
+      "Skills": [
+        "Dispatch"
+      ]
+    },
+    {
+      "Name": "Boarding_spot",
+      "Skills": [
+        "Boarding"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "Contracts": [
+    {
+      "Name": "3x2",
+      "ConsecutiveWorkDays": 3,
+      "ConsecutiveRestDays": 2
+    },
+    {
+      "Name": "6x1",
+      "ConsecutiveWorkDays": 6,
+      "ConsecutiveRestDays": 1
+    },
+    {
+      "Name": "3x1",
+      "ConsecutiveWorkDays": 3,
+      "ConsecutiveRestDays": 1
+    },
+    {
+      "Name": "2x1",
+      "ConsecutiveWorkDays": 2,
+      "ConsecutiveRestDays": 1
+    },
+    {
+      "Name": "2x2",
+      "ConsecutiveWorkDays": 2,
+      "ConsecutiveRestDays": 2
+    },
+    {
+      "Name": "5x2",
+      "ConsecutiveWorkDays": 5,
+      "ConsecutiveRestDays": 2
+    },
+    {
+      "Name": "1x1",
+      "ConsecutiveWorkDays": 1,
+      "ConsecutiveRestDays": 1
+    },
+    {
+      "Name": "4x2",
+      "ConsecutiveWorkDays": 4,
+      "ConsecutiveRestDays": 2
+    }
+  ]
+}
